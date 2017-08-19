@@ -1,5 +1,5 @@
 # SecretHitlerProbability
-An R Shiny that show Secret Hitler calculates the probability of the 3 card draw in the board game.
+Secret Hitler is a board game (www.secrethitler.com) and has nothing to do with actual Hitler or Trump.
 
 The site is published at the following URL:
 https://randomnumb.shinyapps.io/SecretHitlerProbability/
